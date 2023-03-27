@@ -1,0 +1,9 @@
+# .gitignore
+.env
+temp
+node_modules
+myenv
+output
+Transactions.csv
+Transactions_short_2023-3-26.csv
+difference.csv
